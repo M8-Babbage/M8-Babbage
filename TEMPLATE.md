@@ -1,6 +1,8 @@
-Howdy, I'm Edwin Páez from Colombia, I'm a Software Developer working with TypeScript at Novatec Solutions LTDA.
+Howdy, I'm Edwin Páez from Colombia.
 
-I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects.
+I'm a Software Developer working with TypeScript at Novatec Solutions LTDA.
+
+I pushed **{{ COMMITS }}** commits, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects.
 
 Most used languages across my projects:
 
