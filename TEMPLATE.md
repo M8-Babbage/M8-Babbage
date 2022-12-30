@@ -2,10 +2,3 @@
 I'm working with TypeScript at Novatec Solutions LTDA, with experience creating small and medium scale applications, with solid knowledge in markup languages like HTML and CSS, CSS preprocessors such as SASS and Stylus, including dynamism with JavaScript, TypeScript, "Vue, React, Angular", I have developed APIS using NodeJS and MongoDB for data persistence, including Git and Github as versioning systems, additionally I have worked with SCRUM methodology. I really love Linux and [VS Code with Vim](https://gist.github.com/M8-Babbage/cbf8e9e0990d2119252ac86eab2f07e3).
 
 I pushed **{{ COMMITS }}** commits, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects.
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M8-Babbage&hide=css,html&langs_count=3"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=M8-Babbage&show_icons=true" />
-</a>
