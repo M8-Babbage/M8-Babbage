@@ -3,4 +3,9 @@ I'm working with TypeScript at Novatec Solutions LTDA, with experience creating 
 
 I pushed **{{ COMMITS }}** commits, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects.
 
-[![Most used languages across my projects](https://github-readme-stats.vercel.app/api/top-langs/?username=M8-Babbage&layout=compact&hide=css,html)](https://github.com/M8-Babbage/M8-Babbage)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M8-Babbage&layout=compact&hide=css,html)" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=M8-Babbage&show_icons=true" />
+</a>
