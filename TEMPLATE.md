@@ -4,7 +4,7 @@ I'm working with TypeScript at Novatec Solutions LTDA, with experience creating 
 I pushed **{{ COMMITS }}** commits, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M8-Babbage&layout=compact&hide=css,html&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M8-Babbage&hide=css,html&langs_count=3"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=M8-Babbage&show_icons=true" />
