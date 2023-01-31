@@ -9,8 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/setup-node@v3.6.0
-      with:
-        fetch-depth: 0
     - name: Generate README.md
       uses: teoxoy/profile-readme-stats@v1
       with:
