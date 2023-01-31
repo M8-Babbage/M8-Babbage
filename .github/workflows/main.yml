@@ -4,11 +4,12 @@ on:
   push:
     branches:
       - main
+
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3.6.0
       with:
         fetch-depth: 0
     - name: Generate README.md
