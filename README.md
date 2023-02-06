@@ -8,16 +8,16 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 ![GitHub](https://shields.io/github/followers/M8-Babbage?label=Follow)
 
 
-Ever since I joined GitHub **0** years ago, I pushed **301** commits, opened **1** issues, submitted **0** pull requests, received **9** stars across **5** personal projects, and contributed to **1** public repositories.
+Ever since I joined GitHub **0** years ago, I pushed **303** commits, opened **1** issues, submitted **0** pull requests, received **9** stars across **5** personal projects, and contributed to **1** public repositories.
 
 I mostly write **Java** these days. See my _pinned repositories_ below.
 
 Also, here are a few interesting **projects** (written in **TypeScript**, **JavaScript**) that are worth mentioning:
 
-- [TypeScript]() - Some notes about TypeScript with some examples.
-- [JavaScript]() - Topics about JavaScript like array methods, async/await, etc.
-- [Java]() - This is my Java path!
-- [Angular]() - Projects than have been built with Angular.
+- [TypeScript](https://github.com/M8-Babbage/Notes/tree/main/typescript) - Some notes about TypeScript with some examples.
+- [JavaScript](https://github.com/M8-Babbage/Notes/tree/main/javascript) - Topics about JavaScript like array methods, async/await, etc.
+- [Java](https://github.com/M8-Babbage/Java) - This is my Java path!
+- [Angular](https://github.com/M8-Babbage/Angular) - Projects than have been built with Angular.
 
 Ping me on discord `Babbage#5874` if you want to chat!
 
