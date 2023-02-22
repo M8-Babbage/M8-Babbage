@@ -19,6 +19,4 @@ Also, here are a few interesting **projects** (written in **TypeScript**, **Java
 - [Java](https://github.com/M8-Babbage/Java) - This is my Java path!
 - [Angular](https://github.com/M8-Babbage/Angular) - Projects than have been built with Angular.
 
-Ping me on discord `Babbage#5874` if you want to chat!
-
 **~** [_edwin-p.live_](https://edwin-p.live/)
