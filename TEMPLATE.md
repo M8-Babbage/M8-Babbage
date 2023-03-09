@@ -1,4 +1,4 @@
-<img align="left" width="100px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+<img align="left" width="100px" style="padding-right: 20px"  src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
 
 ### Hey!
 
@@ -10,13 +10,12 @@ I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-I mostly write **Java** these days. See my _pinned repositories_ below.
+I mostly write **TS** these days. See my _pinned repositories_ below.
 
 Also, here are a few interesting **projects** (written in **TypeScript**, **JavaScript**) that are worth mentioning:
 
 - [TypeScript](https://github.com/M8-Babbage/Notes/tree/main/typescript) - Some notes about TypeScript with some examples.
 - [JavaScript](https://github.com/M8-Babbage/Notes/tree/main/javascript) - Topics about JavaScript like array methods, async/await, etc.
-- [Java](https://github.com/M8-Babbage/Java) - This is my Java path!
 - [Angular](https://github.com/M8-Babbage/Angular) - Projects than have been built with Angular.
 
 **~** [_edwin-p.live_](https://edwin-p.live/)
