@@ -1,4 +1,4 @@
-<img align="left" width="100px" style="padding-right: 20px"  src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg">
+<img align="left" width="100px" style="padding-right: 20px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
 
 ### Hey!
 
@@ -14,6 +14,7 @@ I mostly write **TS** these days. See my _pinned repositories_ below.
 
 Also, here are a few interesting **projects** (written in **TypeScript**, **JavaScript**) that are worth mentioning:
 
+- [React](https://github.com/M8-Babbage/React) - I'm working on this right now!
 - [TypeScript](https://github.com/M8-Babbage/Notes/tree/main/typescript) - Some notes about TypeScript with some examples.
 - [JavaScript](https://github.com/M8-Babbage/Notes/tree/main/javascript) - Topics about JavaScript like array methods, async/await, etc.
 - [Angular](https://github.com/M8-Babbage/Angular) - Projects than have been built with Angular.
