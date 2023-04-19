@@ -1,11 +1,11 @@
-<img align="left" width="100px" style="padding-right: 20px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
+<div style="text-align: center">
+<img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png">
+</div>
+
 
 ### Hey!
 
 I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
-
-![Babbage](https://img.shields.io/badge/M8--Babbage-%C2%A1Howdy!-lightgrey)
-![GitHub](https://shields.io/github/followers/M8-Babbage?label=Follow)
 
 
 Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
@@ -14,9 +14,10 @@ I mostly write **TS** these days. See my _pinned repositories_ below.
 
 Also, here are a few interesting **projects** (written in **TypeScript**, **JavaScript**) that are worth mentioning:
 
-- [React](https://github.com/M8-Babbage/React) - I'm working on this right now!
-- [TypeScript](https://github.com/M8-Babbage/Notes/tree/main/typescript) - Some notes about TypeScript with some examples.
-- [JavaScript](https://github.com/M8-Babbage/Notes/tree/main/javascript) - Topics about JavaScript like array methods, async/await, etc.
+- [Vue](https://github.com/M8-Babbage/Vue-TS-Vite) - I'm learning all about Vue!.
+- [React](https://github.com/M8-Babbage/ToDo-React.git) - ToDo using React.
 - [Angular](https://github.com/M8-Babbage/Angular) - Projects than have been built with Angular.
+- [JavaScript](https://github.com/M8-Babbage/Notes/tree/main/javascript) - Topics about JavaScript like array methods, async/await, etc.
+- [TypeScript](https://github.com/M8-Babbage/Notes/tree/main/typescript) - Some notes about TypeScript with some examples.
 
 **~** [_edwin-p.live_](https://edwin-p.live/)
