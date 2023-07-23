@@ -1,19 +1,12 @@
-<img align="left" width="100px" style="padding-right: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png">
+<img align="left" width="100px" style="padding-right: 20px" src="https://static-00.iconduck.com/assets.00/file-type-angular-icon-1907x2048-tobdkjt1.png">
 
 ### Hey!
 
 I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 
-Ever since I joined GitHub **0** years ago, I pushed **767** commits, opened **2** issues, submitted **7** pull requests, received **48** stars across **32** personal projects, and contributed to **10** public repositories.
+Ever since I joined GitHub **0** years ago, I pushed **701** commits, opened **2** issues, submitted **7** pull requests, received **30** stars across **20** personal projects, and contributed to **10** public repositories.
 
 I mostly write **TS** these days. See my _pinned repositories_ below.
-
-Also, here are a few interesting **projects** (written in **TypeScript**, **JavaScript**) that are worth mentioning:
-
-- [Vue](https://github.com/M8-Babbage/Vue-TS-Vite) - I'm learning all about Vue!.
-- [React](https://github.com/M8-Babbage/ToDo-React.git) - ToDo using React.
-- [Angular](https://github.com/M8-Babbage/Angular) - Projects than have been built with Angular.
-- [TypeScript](https://github.com/M8-Babbage/Notes/tree/main/typescript) - Some notes about TypeScript with some examples.
 
 **~** [_edwin-p.live_](https://edwin-p.live/)
