@@ -4,7 +4,7 @@
 
 I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
-Ever since I joined GitHub **1** years ago, I pushed **1525** commits, opened **3** issues, submitted **4** pull requests, received **2** stars across **10** personal projects, and contributed to **2** public repositories.
+Ever since I joined GitHub **1** years ago, I pushed **1526** commits, opened **3** issues, submitted **4** pull requests, received **2** stars across **10** personal projects, and contributed to **2** public repositories.
 
 I mostly write **TS** these days. See my _pinned repositories_ below.
 
